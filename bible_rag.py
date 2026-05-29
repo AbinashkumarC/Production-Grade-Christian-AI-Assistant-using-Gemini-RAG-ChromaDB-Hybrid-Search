@@ -19,7 +19,7 @@ from typing import Optional
 
 # ── Constants ────────────────────────────────────────────────────────────────
 
-KJV_URL = r"D:\personal_projects\RAG_MODEL\eval_dataset.json"
+KJV_URL = r"c\eval_dataset.json"
 
 BIBLE_CACHE = "kjv_bible.json"
 CHROMA_DIR  = "./chroma_db"
