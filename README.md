@@ -232,6 +232,24 @@ This prevents:
 All scripture references are validated before returning the final response.
 
 ---
+<img width="1911" height="840" alt="Screenshot 2026-05-29 132722" src="https://github.com/user-attachments/assets/cb7e21bb-350e-4878-aecd-0f4b0dca4a90" />
+
+<img width="1905" height="878" alt="Screenshot 2026-05-29 132743" src="https://github.com/user-attachments/assets/cdedabdf-6905-4d60-bf52-345eb515050b" />
+
+<img width="1902" height="830" alt="Screenshot 2026-05-29 132804" src="https://github.com/user-attachments/assets/f243d6d3-c58e-44e4-9ced-e42d333a8a81" />
+
+<img width="1908" height="839" alt="Screenshot 2026-05-29 133322" src="https://github.com/user-attachments/assets/a0e886df-4bab-4250-a337-2604c6465663" />
+
+<img width="1903" height="826" alt="Screenshot 2026-05-29 133343" src="https://github.com/user-attachments/assets/68eefaee-9afb-40e1-832d-e6788923bf40" />
+
+<img width="1898" height="836" alt="Screenshot 2026-05-29 133557" src="https://github.com/user-attachments/assets/e243124c-653b-4fb8-aa15-613b7bccd40e" />
+
+<img width="1880" height="747" alt="Screenshot 2026-05-29 133625" src="https://github.com/user-attachments/assets/2232b62f-7fac-4c25-b997-ca2919984798" />
+
+<img width="1878" height="795" alt="Screenshot 2026-05-29 133646" src="https://github.com/user-attachments/assets/5eab48d5-7efb-47a0-8b76-b9c1cb911be6" />
+
+
+
 
 # 🔐 Safety Architecture
 
